@@ -145,12 +145,11 @@ $cfg['SaveDir'] = '';
  * Available options
  * ('ask' | 'always' | 'never')
  * default = 'ask'
- */false
+
 //$cfg['SendErrorReports'] = 'always';
 
 /**
  * You can find more configuration options in the documentation
  * in the doc/ folder or at <https://docs.phpmyadmin.net/>.
  */
-   
- ?>
+?>
